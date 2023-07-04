@@ -6,7 +6,8 @@ target/
 **/mvnw.cmd
 **/target/
 **/.mvn
-**/.idea/
+.idea
+HELP.md
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
